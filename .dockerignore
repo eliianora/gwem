@@ -1,0 +1,11 @@
+.git/
+.gitignore
+.dockerignore
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.log
+*.sqlite3
+frontend/
+node_modules/ 
